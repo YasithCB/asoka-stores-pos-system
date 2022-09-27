@@ -1,18 +1,13 @@
+# ASOKA STORES POS System
 
-# Uresha POS System
-
-This projects was created to lean and practice frameworks.
-This project used Bootstrap Framework.
-
+This is a Point Of Sales ssytem that developed for Asoka stores which is located in many cities on Sri Lanka. They
+wanted to manage their operations via system and manager needed to view and manage all of store's necessary details.
 
 Mockup URL      : https://www.figma.com/file/AvktTrhUvEgMuR1nec5XBl/Untitled?node-id=0%3A1
-
 SiteMap URL     : https://www.gloomaps.com/GpqkVTJMKq
-
 WireFrame URL   : https://wireframe.cc/a4cFNG
 
-![Logo](assets/image/placeOrder.jpg)
-
+![Logo](assets/image/Screenshot%202022-09-27%20150940.jpg)
 
 ## Features
 
@@ -20,7 +15,6 @@ WireFrame URL   : https://wireframe.cc/a4cFNG
 - Manage Item
 - Manage Customers
 - Manage Orders
-
 
 ## Authors
 
